@@ -13,7 +13,7 @@ This project explores the average monthly temperatures across Indian metro citie
 
 ### Methodology
 
-- **Data Source**: The dataset includes monthly average temperatures for various metro cities in India, with geographical coordinates for each city.
+- **Data Source**: The dataset includes monthly average temperatures for various metro cities in India, with geographical coordinates for metro city.
 - **Visualization**: A heat map with time is used to display the temperature variations over the months. The map is generated using Folium, with a gradient color scheme that ranges from blue (lower temperatures) to red (higher temperatures).
 
 ### How to Use
